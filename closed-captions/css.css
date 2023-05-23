@@ -32,6 +32,14 @@ Feel free to adjust the defaults to your needs.
 	color: white;
 }
 
+.voice3 {
+	font-family: "Brenner Slab";
+	font-style: Italic;
+	font-weight: 600;
+	font-size: 14px;
+	color: white;
+}
+
 .voice4 {
 	font-family: "Brenner";
 	font-style: Italic;
@@ -610,10 +618,6 @@ Sounds.
 }
 
 .p6 {
-	font-family: "Brenner Slab";
-	font-style: Italic;
-	font-weight: 600;
-	font-size: 14px;
 	left: 0;
 	top: 40vh;
 	animation-name: fuck2;
